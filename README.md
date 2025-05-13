@@ -29,7 +29,7 @@ Make sure the audio files used (`move.mp3`, `gameover.mp3`, etc.) are either roy
 
 ## 📸 Preview
 
-*(Add a screenshot of your game UI if available)*
+(https://saampkakhel.netlify.app/)
 
 ## 📃 License
 
